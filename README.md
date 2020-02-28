@@ -8,5 +8,4 @@ This plugin is use to display a current location Latitude and Longitude.After in
 
 ## About
 twitter: [@Smith121266](https://twitter.com/Smith121266)  
-linkedin: [linkedin.com/in/vikas-pandey-aba223120/](https://www.linkedin.com/in/vikas-pandey-aba223120/)  
-gplus: [plus.google.com/u/0/115939246085616544919](https://plus.google.com/u/0/115939246085616544919)  
+linkedin: [linkedin.com/in/vikas-pandey-aba223120/](https://www.linkedin.com/in/vikas-pandey-aba223120/)
